@@ -26,5 +26,5 @@ features:
   details: 项目经历：<br>2018.7 - 2020.4：实习<br>2020.6 - 2022.9：<br><a style='color:#42b883' href="/start">1、活力钱包</a><br><a style='color:#42b883' href="/start">2、企业微信应用后台</a><br><a style='color:#42b883' href="/start">3、慢牛助手/财富雷达</a><br><a style='color:#42b883' href="/start">4、早报编辑器</a><br><br><a style='color:#42b883' href="/start">下载纸质简历</a><br>支持电话面试，现场面试
 - icon: ✌️
   title: 联系：您可通过以下方式
-  details: 电话：<a style='color:#42b883' target="_blank" href="tel:18888888888">1XX-XXXX-XXXX</a><br><br>Email：<a style='color:#42b883' target="_blank" href="mailto:xuanzhao@88.com">xuanzhao@88.com</a>
+  details: 电话：<a style='color:#42b883' target="_blank" href="tel:13020201060">130-****-1060</a><br><br>Email：<a style='color:#42b883' target="_blank" href="mailto:xuanzhao@88.com">xuanzhao@88.com</a>
 ---
