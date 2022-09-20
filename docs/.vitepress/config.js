@@ -1,5 +1,5 @@
 export default {
-    title: 'Xuan Zhao',
+    title: '赵旋',
     description: '赵旋的简历 | xuan zhao',
     lang: 'zh-CN',
 
