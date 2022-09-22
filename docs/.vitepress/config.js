@@ -37,16 +37,29 @@ export default {
         ],
         sidebar: [
             {
-                text: '项目',
+                text: 'FrontEnd',
                 items: [
                     { text: '活力钱包', link: '/project/1' },
                     { text: '企业微信应用后台', link: '/project/2' },
                     { text: '慢牛助手/财富雷达', link: '/project/3' },
-                    { text: '早报编辑器', link: '/project/4' }
+                    { text: '早报编辑器', link: '/project/4' },
+                    { text: '...', link: '' }
                 ]
             },
             {
-                text: '其他',
+                text: 'BackEnd',
+                items: [
+                    { text: '近期两个有趣的需求', link: '/project/5' }
+                ]
+            },
+            {
+                text: 'Flag',
+                items: [
+                    { text: '未来一年的计划', link: '/project/6' }
+                ]
+            },
+            {
+                text: 'About',
                 items: [
                     { text: '联系我', link: '/contact/' }
                 ]
