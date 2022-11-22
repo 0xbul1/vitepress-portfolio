@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Xuan Zhao
-titleTemplate: 找测试工作的简历 | Portfolio for FrontEnd
+titleTemplate: 找前端工作的简历 | Portfolio for FrontEnd
 hero:
-  name: 找工作 | 前端转测试
+  name: 找工作 | 前端初中级
   text: 技术栈：Vue + TS + GraphQl
   tagline: 赵旋的简历
   actions:
